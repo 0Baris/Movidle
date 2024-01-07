@@ -10,3 +10,10 @@ bu da algoritmanın tekrar etmesini engeller ve her seferinde kullanıcıya fark
 
 PyQt5                                                                                                                      
 SQLite3
+
+## Kullanılan Uygulamalar
+
+PyCharm
+QtDesigner
+DB Browser
+Excel
