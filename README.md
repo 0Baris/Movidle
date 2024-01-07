@@ -13,7 +13,7 @@ SQLite3
 
 ## Kullanılan Uygulamalar
 
-PyCharm
-QtDesigner
-DB Browser
+PyCharm                                                                                                                      
+QtDesigner                                                                                                                      
+DB Browser                                                                                                                      
 Excel
