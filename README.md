@@ -17,3 +17,7 @@ PyCharm
 QtDesigner                                                                                                                      
 DB Browser                                                                                                                      
 Excel
+
+## Data Kaynağı
+
+İşlenmemiş Veri: https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
